@@ -21,7 +21,9 @@
 
 <h3>Data:</h3>
 <ul>
+  <li><strong>Statisitcs:</strong> I am proficient in statistical learning methods and have a good understanding of statistical theories..</li>
   <li><strong>Pandas:</strong> I am proficient in using the Pandas library for data analysis and manipulation.</li>
+  <li><strong>SKlearn:</strong> I am proficient in using the SKlearn library for regression analysis and machine learning tasks.</li>
   <li><strong>Excel:</strong> I have advanced skills in using Microsoft Excel for data analysis and visualization.</li>
   <li><strong>Power BI:</strong> I am skilled in using Power BI for creating interactive dashboards and reports.</li>
 </ul>
